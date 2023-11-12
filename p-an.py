@@ -57,3 +57,6 @@ st.header('')
 
 # Header 적용
 st.header('2. 과학적 원리가 적용된 자세 교정 프로그램')
+st.link_button("자세 교정 프로그램", "https://url.kr/8bkdnj")
+st.image('chart.png', width = 300 , caption = "자세 교정 프로그램 QR 코드")
+st.caption('아이폰 사용자일 경우 사용이 제한될 수 있습니다.')
